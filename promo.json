@@ -1,12 +1,11 @@
 {
   "apps": [
-   
-       {
-      "name": "Dino Hunting",
-      "packageName": "com.dino.family.simulator.hunt",
-      "targetAsin": "B0GHNNSRLC",
-      "storeUrl": "https://www.amazon.com/Hunting-Family-Simulator-Dinosaur-world/dp/B0GHNNSRLC",
-      "rewardedVideoURL": "https://files.catbox.moe/lzm1lb.mp4"
+    {
+      "name": "Weeding Dress Makeup",
+      "packageName": "com.mm.wedding.salon.bridal.makeup.girls.games",
+      "targetAsin": "B07FLD5PS4",
+      "storeUrl": "https://www.amazon.com/Bridal-Makeup-Prince-Wedding-Fashion/dp/B07FLD5PS4",
+      "rewardedVideoURL": "https://files.catbox.moe/xa1ohy.mp4"
     },
     {
       "name": "Critical sniper Tzar Fps",
