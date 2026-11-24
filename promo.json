@@ -1,11 +1,11 @@
 {
   "apps": [
 {
-      "name": "Car Driving Simulator OL",
-      "packageName": "com.dts.car.driving.simulator",
-      "targetAsin": "B0GFNKG9XL",
-      "storeUrl": "https://www.amazon.com/OL-Games-Driving-Simulator-Game/dp/B0GFNKG9XL",
-      "rewardedVideoURL": "https://files.catbox.moe/6bmh8p.mp4"
+      "name": "Slayer Game Argon",
+      "packageName": "com.school.item.vehicle.factory.argon",
+      "targetAsin": "B0GMXW4Q97",
+      "storeUrl": "https://www.amazon.com/Builder-Stunt-Racing-School-Kids/dp/B0GMXW4Q97",
+      "rewardedVideoURL": "https://res.cloudinary.com/dabvtnnc/video/upload/v1795523688/Shadow_Slayer_V3.mp4"
     },
     {
       "name": "Midnight Car Racing",
